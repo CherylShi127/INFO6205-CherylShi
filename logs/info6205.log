@@ -1,0 +1,497 @@
+2022-02-11 11:49:53 DEBUG Config - Config.get(helper, instrument) = true
+2022-02-11 11:49:53 DEBUG Config - Config.get(helper, seed) = 0
+2022-02-11 11:49:53 DEBUG Config - Config.get(instrumenting, copies) = true
+2022-02-11 11:49:53 DEBUG Config - Config.get(instrumenting, swaps) = true
+2022-02-11 11:49:53 DEBUG Config - Config.get(instrumenting, compares) = true
+2022-02-11 11:49:53 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2022-02-11 11:49:53 DEBUG Config - Config.get(instrumenting, fixes) = true
+2022-02-11 11:49:53 DEBUG Config - Config.get(instrumenting, hits) = true
+2022-02-11 11:49:53 DEBUG Config - Config.get(helper, cutoff) = 
+2022-02-11 11:51:00 DEBUG Config - Config.get(helper, instrument) = true
+2022-02-11 11:51:00 DEBUG Config - Config.get(helper, seed) = 0
+2022-02-11 11:51:00 DEBUG Config - Config.get(instrumenting, copies) = true
+2022-02-11 11:51:00 DEBUG Config - Config.get(instrumenting, swaps) = true
+2022-02-11 11:51:00 DEBUG Config - Config.get(instrumenting, compares) = true
+2022-02-11 11:51:00 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2022-02-11 11:51:00 DEBUG Config - Config.get(instrumenting, fixes) = true
+2022-02-11 11:51:00 DEBUG Config - Config.get(instrumenting, hits) = true
+2022-02-11 11:51:00 DEBUG Config - Config.get(helper, cutoff) = 
+2022-02-11 11:53:33 DEBUG Config - Config.get(helper, instrument) = true
+2022-02-11 11:53:33 DEBUG Config - Config.get(helper, seed) = 0
+2022-02-11 11:53:33 DEBUG Config - Config.get(instrumenting, copies) = true
+2022-02-11 11:53:33 DEBUG Config - Config.get(instrumenting, swaps) = true
+2022-02-11 11:53:33 DEBUG Config - Config.get(instrumenting, compares) = true
+2022-02-11 11:53:33 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2022-02-11 11:53:33 DEBUG Config - Config.get(instrumenting, fixes) = true
+2022-02-11 11:53:33 DEBUG Config - Config.get(instrumenting, hits) = true
+2022-02-11 11:53:33 DEBUG Config - Config.get(helper, cutoff) = 
+2022-02-11 11:55:50 DEBUG Config - Config.get(helper, instrument) = true
+2022-02-11 11:55:50 DEBUG Config - Config.get(helper, seed) = 0
+2022-02-11 11:55:50 DEBUG Config - Config.get(instrumenting, copies) = true
+2022-02-11 11:55:50 DEBUG Config - Config.get(instrumenting, swaps) = true
+2022-02-11 11:55:50 DEBUG Config - Config.get(instrumenting, compares) = true
+2022-02-11 11:55:50 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2022-02-11 11:55:50 DEBUG Config - Config.get(instrumenting, fixes) = true
+2022-02-11 11:55:50 DEBUG Config - Config.get(instrumenting, hits) = true
+2022-02-11 11:55:50 DEBUG Config - Config.get(helper, cutoff) = 
+2022-02-11 11:57:46 DEBUG Config - Config.get(helper, instrument) = true
+2022-02-11 11:57:46 DEBUG Config - Config.get(helper, seed) = 0
+2022-02-11 11:57:46 DEBUG Config - Config.get(instrumenting, copies) = true
+2022-02-11 11:57:46 DEBUG Config - Config.get(instrumenting, swaps) = true
+2022-02-11 11:57:46 DEBUG Config - Config.get(instrumenting, compares) = true
+2022-02-11 11:57:46 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2022-02-11 11:57:46 DEBUG Config - Config.get(instrumenting, fixes) = true
+2022-02-11 11:57:46 DEBUG Config - Config.get(instrumenting, hits) = true
+2022-02-11 11:57:46 DEBUG Config - Config.get(helper, cutoff) = 
+2022-02-11 12:10:45 DEBUG Config - Config.get(helper, instrument) = true
+2022-02-11 12:10:45 DEBUG Config - Config.get(helper, seed) = 0
+2022-02-11 12:10:45 DEBUG Config - Config.get(instrumenting, copies) = true
+2022-02-11 12:10:45 DEBUG Config - Config.get(instrumenting, swaps) = true
+2022-02-11 12:10:45 DEBUG Config - Config.get(instrumenting, compares) = true
+2022-02-11 12:10:45 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2022-02-11 12:10:45 DEBUG Config - Config.get(instrumenting, fixes) = true
+2022-02-11 12:10:45 DEBUG Config - Config.get(instrumenting, hits) = true
+2022-02-11 12:10:45 DEBUG Config - Config.get(helper, cutoff) = 
+2022-02-11 12:12:18 DEBUG Config - Config.get(helper, instrument) = true
+2022-02-11 12:12:18 DEBUG Config - Config.get(helper, seed) = 0
+2022-02-11 12:12:18 DEBUG Config - Config.get(instrumenting, copies) = true
+2022-02-11 12:12:18 DEBUG Config - Config.get(instrumenting, swaps) = true
+2022-02-11 12:12:18 DEBUG Config - Config.get(instrumenting, compares) = true
+2022-02-11 12:12:18 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2022-02-11 12:12:18 DEBUG Config - Config.get(instrumenting, fixes) = true
+2022-02-11 12:12:18 DEBUG Config - Config.get(instrumenting, hits) = true
+2022-02-11 12:12:18 DEBUG Config - Config.get(helper, cutoff) = 
+2022-02-11 14:14:01 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2022-02-11 14:22:13 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2022-02-11 15:10:15 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2022-02-11 16:21:02 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2022-02-11 16:22:07 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2022-02-11 16:25:23 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2022-02-12 14:01:25 DEBUG Config - Config.get(SortBenchmark, version) = null
+2022-02-12 14:01:25 INFO  SortBenchmark - SortBenchmark.main: null with word counts: []
+2022-02-12 14:01:25 WARN  SortBenchmark - No word counts specified on the command line
+2022-02-12 14:01:25 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 14:01:26 INFO  TimeLogger - Raw time per run (mSec):  5.96
+2022-02-12 14:01:26 INFO  TimeLogger - Normalized time per run (n log n):  .65
+2022-02-12 14:01:26 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 14:01:27 INFO  TimeLogger - Raw time per run (mSec):  14.19
+2022-02-12 14:01:27 INFO  TimeLogger - Normalized time per run (n log n):  1.56
+2022-02-12 14:01:27 INFO  SortBenchmark - Beginning String sorts
+2022-02-12 14:01:28 INFO  SortBenchmarkHelper - Testing with words: 2,998 from 3000-common-words.txt
+2022-02-12 14:01:28 INFO  SortBenchmark - Testing pure sorts with 5,000 runs of sorting 4,000 words
+2022-02-12 14:01:28 DEBUG Config - Config.get(benchmarkstringsorters, puresystemsort) = false
+2022-02-12 14:01:28 DEBUG Config - Config.get(benchmarkstringsorters, mergesort) = false
+2022-02-12 14:01:28 DEBUG Config - Config.get(benchmarkstringsorters, quicksort3way) = false
+2022-02-12 14:01:28 DEBUG Config - Config.get(benchmarkstringsorters, quicksort) = true
+2022-02-12 14:01:28 DEBUG Config - Config.get(helper, instrument) = false
+2022-02-12 14:01:28 INFO  SorterBenchmark - run: sort 4,000 elements using SorterBenchmark on class java.lang.String from 2,998 total elements and 5,000 runs using sorter: QuickSort dual pivot
+2022-02-12 14:01:28 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 4000 elements with 5,000 runs
+2022-02-12 14:01:33 INFO  TimeLogger - Raw time per run (mSec):  1.13
+2022-02-12 14:01:33 INFO  TimeLogger - Normalized time per run (n log n):  4.46
+2022-02-12 14:01:33 DEBUG Config - Config.get(benchmarkstringsorters, introsort) = false
+2022-02-12 14:01:33 DEBUG Config - Config.get(benchmarkstringsorters, insertionsort) = false
+2022-02-12 14:01:34 INFO  SortBenchmarkHelper - Testing with words: 24,017 from zho-simp-tw_web_2014_10K-sentences.txt
+2022-02-12 14:01:34 INFO  SortBenchmark - Testing pure sorts with 1,000 runs of sorting 5,000 words
+2022-02-12 14:01:34 INFO  SorterBenchmark - run: sort 5,000 elements using SorterBenchmark on class java.lang.String from 24,017 total elements and 1,000 runs using sorter: QuickSort dual pivot
+2022-02-12 14:01:34 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 5000 elements with 1,000 runs
+2022-02-12 14:01:35 INFO  TimeLogger - Raw time per run (mSec):  1.49
+2022-02-12 14:01:35 INFO  TimeLogger - Normalized time per run (n log n):  4.56
+2022-02-12 14:01:35 INFO  SortBenchmark - Beginning LocalDateTime sorts
+2022-02-12 14:01:35 DEBUG Config - Config.get(benchmarkdatesorters, timsort) = false
+2022-02-12 15:06:29 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 15:06:55 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 15:09:04 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 15:27:13 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 15:27:13 INFO  Benchmark_Timer - Begin run: integerArraysorter with 5 runs
+2022-02-12 15:30:26 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 15:30:26 INFO  Benchmark_Timer - Begin run: integerArraysorter with 5 runs
+2022-02-12 15:30:52 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 15:30:52 INFO  Benchmark_Timer - Begin run: integerArraysorter with 5 runs
+2022-02-12 15:30:57 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 15:30:57 INFO  Benchmark_Timer - Begin run: integerArraysorter with 5 runs
+2022-02-12 15:31:01 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 15:31:02 INFO  Benchmark_Timer - Begin run: integerArraysorter with 5 runs
+2022-02-12 15:31:06 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 15:31:06 INFO  Benchmark_Timer - Begin run: integerArraysorter with 5 runs
+2022-02-12 15:33:44 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 15:33:44 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 5 runs
+2022-02-12 16:03:11 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 16:03:11 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 5 runs
+2022-02-12 16:03:21 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 16:03:21 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 5 runs
+2022-02-12 16:04:16 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 16:05:47 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 5 runs
+2022-02-12 16:06:10 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 5 runs
+2022-02-12 16:25:08 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 16:25:08 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:08 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:08 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:08 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:08 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:25 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 16:25:25 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:25 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:25 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:25 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:25 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:42 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 16:25:42 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:42 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:42 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:42 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:25:42 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:37:47 DEBUG Config - Config.get(SortBenchmark, version) = null
+2022-02-12 16:37:47 INFO  SortBenchmark - SortBenchmark.main: null with word counts: []
+2022-02-12 16:37:47 WARN  SortBenchmark - No word counts specified on the command line
+2022-02-12 16:37:47 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 16:37:48 INFO  TimeLogger - Raw time per run (mSec):  5.04
+2022-02-12 16:37:48 INFO  TimeLogger - Normalized time per run (n log n):  .55
+2022-02-12 16:37:48 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 16:37:50 INFO  TimeLogger - Raw time per run (mSec):  14.44
+2022-02-12 16:37:50 INFO  TimeLogger - Normalized time per run (n log n):  1.59
+2022-02-12 16:37:50 INFO  SortBenchmark - Beginning String sorts
+2022-02-12 16:37:50 INFO  SortBenchmarkHelper - Testing with words: 2,998 from 3000-common-words.txt
+2022-02-12 16:37:50 INFO  SortBenchmark - Testing pure sorts with 5,000 runs of sorting 4,000 words
+2022-02-12 16:37:50 DEBUG Config - Config.get(benchmarkstringsorters, puresystemsort) = false
+2022-02-12 16:37:50 DEBUG Config - Config.get(benchmarkstringsorters, mergesort) = false
+2022-02-12 16:37:50 DEBUG Config - Config.get(benchmarkstringsorters, quicksort3way) = false
+2022-02-12 16:37:50 DEBUG Config - Config.get(benchmarkstringsorters, quicksort) = true
+2022-02-12 16:37:50 DEBUG Config - Config.get(helper, instrument) = false
+2022-02-12 16:37:50 INFO  SorterBenchmark - run: sort 4,000 elements using SorterBenchmark on class java.lang.String from 2,998 total elements and 5,000 runs using sorter: QuickSort dual pivot
+2022-02-12 16:37:50 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 4000 elements with 5,000 runs
+2022-02-12 16:37:55 INFO  TimeLogger - Raw time per run (mSec):  1.10
+2022-02-12 16:37:55 INFO  TimeLogger - Normalized time per run (n log n):  4.36
+2022-02-12 16:37:55 DEBUG Config - Config.get(benchmarkstringsorters, introsort) = false
+2022-02-12 16:37:55 DEBUG Config - Config.get(benchmarkstringsorters, insertionsort) = false
+2022-02-12 16:37:56 INFO  SortBenchmarkHelper - Testing with words: 24,017 from zho-simp-tw_web_2014_10K-sentences.txt
+2022-02-12 16:37:56 INFO  SortBenchmark - Testing pure sorts with 1,000 runs of sorting 5,000 words
+2022-02-12 16:37:56 INFO  SorterBenchmark - run: sort 5,000 elements using SorterBenchmark on class java.lang.String from 24,017 total elements and 1,000 runs using sorter: QuickSort dual pivot
+2022-02-12 16:37:56 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 5000 elements with 1,000 runs
+2022-02-12 16:37:57 INFO  TimeLogger - Raw time per run (mSec):  1.46
+2022-02-12 16:37:57 INFO  TimeLogger - Normalized time per run (n log n):  4.48
+2022-02-12 16:37:57 DEBUG Config - Config.get(benchmarkintegersorters, shellsort) = false
+2022-02-12 16:37:57 INFO  SortBenchmark - Beginning LocalDateTime sorts
+2022-02-12 16:37:57 DEBUG Config - Config.get(benchmarkdatesorters, timsort) = false
+2022-02-12 16:40:30 DEBUG Config - Config.get(SortBenchmark, version) = null
+2022-02-12 16:40:30 INFO  SortBenchmark - SortBenchmark.main: null with word counts: []
+2022-02-12 16:40:30 WARN  SortBenchmark - No word counts specified on the command line
+2022-02-12 16:40:30 DEBUG Config - Config.get(benchmarkintegersorters, shellsort) = false
+2022-02-12 16:42:48 DEBUG Config - Config.get(SortBenchmark, version) = null
+2022-02-12 16:42:48 INFO  SortBenchmark - SortBenchmark.main: null with word counts: []
+2022-02-12 16:42:48 WARN  SortBenchmark - No word counts specified on the command line
+2022-02-12 16:42:48 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 16:42:48 INFO  TimeLogger - Raw time per run (mSec):  5.61
+2022-02-12 16:42:48 INFO  TimeLogger - Normalized time per run (n log n):  .62
+2022-02-12 16:42:48 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 16:42:50 INFO  TimeLogger - Raw time per run (mSec):  14.20
+2022-02-12 16:42:50 INFO  TimeLogger - Normalized time per run (n log n):  1.56
+2022-02-12 16:42:50 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 16:42:52 INFO  TimeLogger - Raw time per run (mSec):  10.96
+2022-02-12 16:42:52 INFO  TimeLogger - Normalized time per run (n log n):  .56
+2022-02-12 16:42:52 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 16:42:55 INFO  TimeLogger - Raw time per run (mSec):  28.48
+2022-02-12 16:42:55 INFO  TimeLogger - Normalized time per run (n log n):  1.47
+2022-02-12 16:42:55 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 16:42:58 INFO  TimeLogger - Raw time per run (mSec):  23.07
+2022-02-12 16:42:58 INFO  TimeLogger - Normalized time per run (n log n):  .56
+2022-02-12 16:42:58 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 16:43:05 INFO  TimeLogger - Raw time per run (mSec):  62.50
+2022-02-12 16:43:05 INFO  TimeLogger - Normalized time per run (n log n):  1.52
+2022-02-12 16:43:05 INFO  SortBenchmark - Beginning String sorts
+2022-02-12 16:43:05 INFO  SortBenchmarkHelper - Testing with words: 2,998 from 3000-common-words.txt
+2022-02-12 16:43:05 INFO  SortBenchmark - Testing pure sorts with 5,000 runs of sorting 4,000 words
+2022-02-12 16:43:05 DEBUG Config - Config.get(benchmarkstringsorters, puresystemsort) = false
+2022-02-12 16:43:05 DEBUG Config - Config.get(benchmarkstringsorters, mergesort) = false
+2022-02-12 16:43:05 DEBUG Config - Config.get(benchmarkstringsorters, quicksort3way) = false
+2022-02-12 16:43:05 DEBUG Config - Config.get(benchmarkstringsorters, quicksort) = true
+2022-02-12 16:43:05 DEBUG Config - Config.get(helper, instrument) = false
+2022-02-12 16:43:05 INFO  SorterBenchmark - run: sort 4,000 elements using SorterBenchmark on class java.lang.String from 2,998 total elements and 5,000 runs using sorter: QuickSort dual pivot
+2022-02-12 16:43:05 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 4000 elements with 5,000 runs
+2022-02-12 16:43:11 INFO  TimeLogger - Raw time per run (mSec):  1.11
+2022-02-12 16:43:11 INFO  TimeLogger - Normalized time per run (n log n):  4.40
+2022-02-12 16:43:11 DEBUG Config - Config.get(benchmarkstringsorters, introsort) = false
+2022-02-12 16:43:11 DEBUG Config - Config.get(benchmarkstringsorters, insertionsort) = false
+2022-02-12 16:43:11 INFO  SortBenchmarkHelper - Testing with words: 24,017 from zho-simp-tw_web_2014_10K-sentences.txt
+2022-02-12 16:43:11 INFO  SortBenchmark - Testing pure sorts with 1,000 runs of sorting 5,000 words
+2022-02-12 16:43:11 INFO  SorterBenchmark - run: sort 5,000 elements using SorterBenchmark on class java.lang.String from 24,017 total elements and 1,000 runs using sorter: QuickSort dual pivot
+2022-02-12 16:43:11 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 5000 elements with 1,000 runs
+2022-02-12 16:43:13 INFO  TimeLogger - Raw time per run (mSec):  1.48
+2022-02-12 16:43:13 INFO  TimeLogger - Normalized time per run (n log n):  4.56
+2022-02-12 16:43:13 INFO  SortBenchmark - Beginning LocalDateTime sorts
+2022-02-12 16:43:13 DEBUG Config - Config.get(benchmarkdatesorters, timsort) = false
+2022-02-12 16:51:52 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 16:51:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:51:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:51:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:51:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:51:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:52:50 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 16:52:50 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:52:50 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:52:50 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:52:50 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 16:52:50 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 17:27:31 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:27:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 17:27:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 17:27:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 17:27:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 17:27:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 10 runs
+2022-02-12 17:27:58 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:27:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:27:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:27:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:27:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:27:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:28:36 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:28:36 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:28:36 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:28:36 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:28:36 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:28:36 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:28:59 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:29:00 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:29:00 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:29:00 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:29:00 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:29:00 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:29:58 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:29:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:29:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:29:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:29:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:29:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:30:06 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:30:06 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:30:06 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:30:06 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:30:06 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:30:06 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:30:20 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:30:20 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:30:20 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:30:20 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:30:20 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:30:20 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:36:11 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:36:11 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:36:11 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:36:11 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:36:11 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:36:12 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:36:33 DEBUG Config - Config.get(SortBenchmark, version) = null
+2022-02-12 17:36:33 INFO  SortBenchmark - SortBenchmark.main: null with word counts: []
+2022-02-12 17:36:33 WARN  SortBenchmark - No word counts specified on the command line
+2022-02-12 17:36:33 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 17:36:34 INFO  TimeLogger - Raw time per run (mSec):  6.08
+2022-02-12 17:36:34 INFO  TimeLogger - Normalized time per run (n log n):  .67
+2022-02-12 17:36:34 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 17:36:36 INFO  TimeLogger - Raw time per run (mSec):  14.61
+2022-02-12 17:36:36 INFO  TimeLogger - Normalized time per run (n log n):  1.61
+2022-02-12 17:36:36 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 17:36:37 INFO  TimeLogger - Raw time per run (mSec):  11.35
+2022-02-12 17:36:37 INFO  TimeLogger - Normalized time per run (n log n):  .59
+2022-02-12 17:36:37 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 17:36:40 INFO  TimeLogger - Raw time per run (mSec):  28.60
+2022-02-12 17:36:40 INFO  TimeLogger - Normalized time per run (n log n):  1.47
+2022-02-12 17:36:40 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 17:36:43 INFO  TimeLogger - Raw time per run (mSec):  22.85
+2022-02-12 17:36:43 INFO  TimeLogger - Normalized time per run (n log n):  .55
+2022-02-12 17:36:43 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 17:36:50 INFO  TimeLogger - Raw time per run (mSec):  61.32
+2022-02-12 17:36:50 INFO  TimeLogger - Normalized time per run (n log n):  1.49
+2022-02-12 17:36:50 INFO  SortBenchmark - Beginning String sorts
+2022-02-12 17:36:50 INFO  SortBenchmarkHelper - Testing with words: 2,998 from 3000-common-words.txt
+2022-02-12 17:36:50 INFO  SortBenchmark - Testing pure sorts with 5,000 runs of sorting 4,000 words
+2022-02-12 17:36:50 DEBUG Config - Config.get(benchmarkstringsorters, puresystemsort) = false
+2022-02-12 17:36:50 DEBUG Config - Config.get(benchmarkstringsorters, mergesort) = false
+2022-02-12 17:36:50 DEBUG Config - Config.get(benchmarkstringsorters, quicksort3way) = false
+2022-02-12 17:36:50 DEBUG Config - Config.get(benchmarkstringsorters, quicksort) = true
+2022-02-12 17:36:50 DEBUG Config - Config.get(helper, instrument) = false
+2022-02-12 17:36:50 INFO  SorterBenchmark - run: sort 4,000 elements using SorterBenchmark on class java.lang.String from 2,998 total elements and 5,000 runs using sorter: QuickSort dual pivot
+2022-02-12 17:36:50 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 4000 elements with 5,000 runs
+2022-02-12 17:36:56 INFO  TimeLogger - Raw time per run (mSec):  1.12
+2022-02-12 17:36:56 INFO  TimeLogger - Normalized time per run (n log n):  4.45
+2022-02-12 17:36:56 DEBUG Config - Config.get(benchmarkstringsorters, introsort) = false
+2022-02-12 17:36:56 DEBUG Config - Config.get(benchmarkstringsorters, insertionsort) = false
+2022-02-12 17:36:56 INFO  SortBenchmarkHelper - Testing with words: 24,017 from zho-simp-tw_web_2014_10K-sentences.txt
+2022-02-12 17:36:56 INFO  SortBenchmark - Testing pure sorts with 1,000 runs of sorting 5,000 words
+2022-02-12 17:36:56 INFO  SorterBenchmark - run: sort 5,000 elements using SorterBenchmark on class java.lang.String from 24,017 total elements and 1,000 runs using sorter: QuickSort dual pivot
+2022-02-12 17:36:56 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 5000 elements with 1,000 runs
+2022-02-12 17:36:58 INFO  TimeLogger - Raw time per run (mSec):  1.49
+2022-02-12 17:36:58 INFO  TimeLogger - Normalized time per run (n log n):  4.59
+2022-02-12 17:36:58 INFO  SortBenchmark - Beginning LocalDateTime sorts
+2022-02-12 17:36:58 DEBUG Config - Config.get(benchmarkdatesorters, timsort) = false
+2022-02-12 17:38:09 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:38:09 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:38:09 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:38:09 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:38:09 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:38:09 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:39:40 DEBUG Config - Config.get(SortBenchmark, version) = null
+2022-02-12 17:39:40 INFO  SortBenchmark - SortBenchmark.main: null with word counts: []
+2022-02-12 17:39:40 WARN  SortBenchmark - No word counts specified on the command line
+2022-02-12 17:39:40 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 17:39:41 INFO  TimeLogger - Raw time per run (mSec):  5.51
+2022-02-12 17:39:41 INFO  TimeLogger - Normalized time per run (n log n):  .61
+2022-02-12 17:39:41 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 17:39:43 INFO  TimeLogger - Raw time per run (mSec):  13.25
+2022-02-12 17:39:43 INFO  TimeLogger - Normalized time per run (n log n):  1.46
+2022-02-12 17:39:43 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 17:39:44 INFO  TimeLogger - Raw time per run (mSec):  11.63
+2022-02-12 17:39:44 INFO  TimeLogger - Normalized time per run (n log n):  .60
+2022-02-12 17:39:44 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 17:39:47 INFO  TimeLogger - Raw time per run (mSec):  28.54
+2022-02-12 17:39:47 INFO  TimeLogger - Normalized time per run (n log n):  1.47
+2022-02-12 17:39:47 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 17:39:50 INFO  TimeLogger - Raw time per run (mSec):  24.10
+2022-02-12 17:39:50 INFO  TimeLogger - Normalized time per run (n log n):  .58
+2022-02-12 17:39:50 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 17:39:58 INFO  TimeLogger - Raw time per run (mSec):  60.78
+2022-02-12 17:39:58 INFO  TimeLogger - Normalized time per run (n log n):  1.48
+2022-02-12 17:39:58 INFO  SortBenchmark - Beginning String sorts
+2022-02-12 17:39:58 INFO  SortBenchmarkHelper - Testing with words: 2,998 from 3000-common-words.txt
+2022-02-12 17:39:58 INFO  SortBenchmark - Testing pure sorts with 5,000 runs of sorting 4,000 words
+2022-02-12 17:39:58 DEBUG Config - Config.get(benchmarkstringsorters, puresystemsort) = false
+2022-02-12 17:39:58 DEBUG Config - Config.get(benchmarkstringsorters, mergesort) = false
+2022-02-12 17:39:58 DEBUG Config - Config.get(benchmarkstringsorters, quicksort3way) = false
+2022-02-12 17:39:58 DEBUG Config - Config.get(benchmarkstringsorters, quicksort) = true
+2022-02-12 17:39:58 DEBUG Config - Config.get(helper, instrument) = false
+2022-02-12 17:39:58 INFO  SorterBenchmark - run: sort 4,000 elements using SorterBenchmark on class java.lang.String from 2,998 total elements and 5,000 runs using sorter: QuickSort dual pivot
+2022-02-12 17:39:58 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 4000 elements with 5,000 runs
+2022-02-12 17:40:03 INFO  TimeLogger - Raw time per run (mSec):  1.11
+2022-02-12 17:40:03 INFO  TimeLogger - Normalized time per run (n log n):  4.39
+2022-02-12 17:40:03 DEBUG Config - Config.get(benchmarkstringsorters, introsort) = false
+2022-02-12 17:40:03 DEBUG Config - Config.get(benchmarkstringsorters, insertionsort) = false
+2022-02-12 17:40:04 INFO  SortBenchmarkHelper - Testing with words: 24,017 from zho-simp-tw_web_2014_10K-sentences.txt
+2022-02-12 17:40:04 INFO  SortBenchmark - Testing pure sorts with 1,000 runs of sorting 5,000 words
+2022-02-12 17:40:04 INFO  SorterBenchmark - run: sort 5,000 elements using SorterBenchmark on class java.lang.String from 24,017 total elements and 1,000 runs using sorter: QuickSort dual pivot
+2022-02-12 17:40:04 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 5000 elements with 1,000 runs
+2022-02-12 17:40:05 INFO  TimeLogger - Raw time per run (mSec):  1.46
+2022-02-12 17:40:05 INFO  TimeLogger - Normalized time per run (n log n):  4.49
+2022-02-12 17:40:05 INFO  SortBenchmark - Beginning LocalDateTime sorts
+2022-02-12 17:40:05 DEBUG Config - Config.get(benchmarkdatesorters, timsort) = false
+2022-02-12 17:42:49 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:42:49 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:42:49 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:42:49 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:42:49 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:42:49 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:45:39 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:45:40 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 1,000 runs
+2022-02-12 17:45:40 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 1,000 runs
+2022-02-12 17:45:40 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 1,000 runs
+2022-02-12 17:45:41 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 1,000 runs
+2022-02-12 17:45:41 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 1,000 runs
+2022-02-12 17:46:22 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 17:46:22 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:46:22 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:46:22 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:46:22 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 17:46:22 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:31 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:32 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:32 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:32 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:12:32 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:56 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 18:13:56 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:57 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:13:58 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:34:15 DEBUG Config - Config.get(SortBenchmark, version) = null
+2022-02-12 18:34:15 INFO  SortBenchmark - SortBenchmark.main: null with word counts: []
+2022-02-12 18:34:15 WARN  SortBenchmark - No word counts specified on the command line
+2022-02-12 18:34:15 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 18:34:15 INFO  TimeLogger - Raw time per run (mSec):  5.36
+2022-02-12 18:34:15 INFO  TimeLogger - Normalized time per run (n log n):  .59
+2022-02-12 18:34:15 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 18:34:17 INFO  TimeLogger - Raw time per run (mSec):  14.10
+2022-02-12 18:34:17 INFO  TimeLogger - Normalized time per run (n log n):  1.55
+2022-02-12 18:34:17 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 18:34:19 INFO  TimeLogger - Raw time per run (mSec):  11.22
+2022-02-12 18:34:19 INFO  TimeLogger - Normalized time per run (n log n):  .58
+2022-02-12 18:34:19 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 18:34:22 INFO  TimeLogger - Raw time per run (mSec):  28.09
+2022-02-12 18:34:22 INFO  TimeLogger - Normalized time per run (n log n):  1.45
+2022-02-12 18:34:22 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2022-02-12 18:34:25 INFO  TimeLogger - Raw time per run (mSec):  23.01
+2022-02-12 18:34:25 INFO  TimeLogger - Normalized time per run (n log n):  .56
+2022-02-12 18:34:25 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2022-02-12 18:34:32 INFO  TimeLogger - Raw time per run (mSec):  60.48
+2022-02-12 18:34:32 INFO  TimeLogger - Normalized time per run (n log n):  1.47
+2022-02-12 18:34:32 INFO  SortBenchmark - Beginning String sorts
+2022-02-12 18:34:32 INFO  SortBenchmarkHelper - Testing with words: 2,998 from 3000-common-words.txt
+2022-02-12 18:34:32 INFO  SortBenchmark - Testing pure sorts with 5,000 runs of sorting 4,000 words
+2022-02-12 18:34:32 DEBUG Config - Config.get(benchmarkstringsorters, puresystemsort) = false
+2022-02-12 18:34:32 DEBUG Config - Config.get(benchmarkstringsorters, mergesort) = false
+2022-02-12 18:34:32 DEBUG Config - Config.get(benchmarkstringsorters, quicksort3way) = false
+2022-02-12 18:34:32 DEBUG Config - Config.get(benchmarkstringsorters, quicksort) = true
+2022-02-12 18:34:32 DEBUG Config - Config.get(helper, instrument) = false
+2022-02-12 18:34:32 INFO  SorterBenchmark - run: sort 4,000 elements using SorterBenchmark on class java.lang.String from 2,998 total elements and 5,000 runs using sorter: QuickSort dual pivot
+2022-02-12 18:34:32 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 4000 elements with 5,000 runs
+2022-02-12 18:34:38 INFO  TimeLogger - Raw time per run (mSec):  1.13
+2022-02-12 18:34:38 INFO  TimeLogger - Normalized time per run (n log n):  4.48
+2022-02-12 18:34:38 DEBUG Config - Config.get(benchmarkstringsorters, introsort) = false
+2022-02-12 18:34:38 DEBUG Config - Config.get(benchmarkstringsorters, insertionsort) = false
+2022-02-12 18:34:38 INFO  SortBenchmarkHelper - Testing with words: 24,017 from zho-simp-tw_web_2014_10K-sentences.txt
+2022-02-12 18:34:38 INFO  SortBenchmark - Testing pure sorts with 1,000 runs of sorting 5,000 words
+2022-02-12 18:34:38 INFO  SorterBenchmark - run: sort 5,000 elements using SorterBenchmark on class java.lang.String from 24,017 total elements and 1,000 runs using sorter: QuickSort dual pivot
+2022-02-12 18:34:38 INFO  Benchmark_Timer - Begin run: Helper for QuickSort dual pivot with 5000 elements with 1,000 runs
+2022-02-12 18:34:39 INFO  TimeLogger - Raw time per run (mSec):  1.47
+2022-02-12 18:34:39 INFO  TimeLogger - Normalized time per run (n log n):  4.50
+2022-02-12 18:34:39 INFO  SortBenchmark - Beginning LocalDateTime sorts
+2022-02-12 18:34:39 DEBUG Config - Config.get(benchmarkdatesorters, timsort) = false
+2022-02-12 18:35:51 INFO  InsertionSortBenchmark - InsertionSortBenchmark.main:
+2022-02-12 18:35:51 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:52 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:53 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:53 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
+2022-02-12 18:35:53 INFO  Benchmark_Timer - Begin run: integerArrayInsertionsorter with 100 runs
